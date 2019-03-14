@@ -6,14 +6,12 @@ Storm is a distributed realtime computation system. Similar to how Hadoop provid
 
 The [Rationale page](http://storm.apache.org/documentation/Rationale.html) explains what Storm is and why it was built. [This presentation](http://vimeo.com/40972420) is also a good introduction to the project.
 
-Storm has a website at [storm.apache.org](http://storm.apache.org). Follow [@stormprocessor](https://twitter.com/stormprocessor) on Twitter for updates on the project.
-
 ## Documentation
 
 Documentation and tutorials can be found on the [Storm website](http://storm.apache.org/documentation/Home.html).
 
 Developers and contributors should also take a look at our [Developer documentation](DEVELOPER.md).
- DSP Test
+ DSP Test 
 
 ## Getting help
 
