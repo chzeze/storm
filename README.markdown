@@ -1,9 +1,6 @@
 ﻿Master Branch:  
-特使
-阿萨德
-1111
-DSP
-2222
+解决冲突feature 1.1.0
+>>>>>>> feature-1.1.0
  
 Storm is a distributed realtime computation system. Similar to how Hadoop provides a set of general primitives for doing batch processing, Storm provides a set of general primitives for doing realtime computation. Storm is simple, can be used with any programming language, [is used by many companies](http://storm.apache.org/documentation/Powered-By.html), and is a lot of fun to use!
 
